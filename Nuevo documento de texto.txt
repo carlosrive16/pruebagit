@@ -1,0 +1,21 @@
+¿QUE ES GIT?
+Git es un sistema de control de versiones de código
+
+COMMIT
+Un commit en un repositorio git registra una instantánea de todos los archivos en tu directorio. 
+Es como un gran copiar y pegar, ¡pero incluso mejor!
+
+RAMAS EN GIT
+Las ramas (branches) en Git son increíblemente livianas. Son sólo referencias a un commit específico 
+- nada más. Por esto es que tantos entusiastas de Git siguen el mantra:
+
+crea ramas al principio y hazlo también de manera frecuente
+
+Ahí está, ¡eso es todo lo que hay que hacer para crear una rama! 
+La rama newImage ahora referencia al commit C1
+
+git branch "bugFix"(crear rama)
+git checkout "bugFix" (darle oportunidad
+git init
+git add
+git clone
